@@ -1,0 +1,70 @@
+header{
+	background: rgb(214, 199, 193);
+	border-bottom: 0.5px solid lightgrey;
+	color:#F54C00;
+	text-align: left;
+	height:80px;
+
+	
+}
+#header_right_navbar ul li {
+	list-style-type: none;
+	display: inline-block;
+	margin-right: 15px;
+}
+#header_right_navbar ul {
+	margin: 0; 
+}
+#header_right_navbar ul li a h3{
+	margin-bottom: 20px; 
+}
+
+#header_right_navbar ul li a{
+	text-decoration: none;
+	color: black;
+	color:lightgrey;
+}
+#header_right_navbar ul li:hover{
+	background: #FFAE8A;
+	color:white;
+	text-transform: uppercase;
+}
+ .carousel img {
+    
+      min-width: 100%;
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+h3 a:hover{
+	text-decoration: none;
+}
+h3 a{
+	color: lightgrey;
+	text-decoration: none;
+}
+form.container{
+	background: url('https://cdn.radiofrance.fr/s3/cruiser-production/2013/02/c929122a-7ccc-11e2-a7b7-782bcb76618d/870x489_logo-om-800.jpg');
+	padding:30px;
+	color: red;
+	margin:100px;
+}
+body{
+	background: rgba(0,0,0,0.8);
+	color:white;
+}
+footer{
+	background: #FFFAF8;
+	border-top: 0.5px solid lightgrey;
+	color:lightgrey;
+	text-align:right;
+	min-height: 65px;
+}
+.marge{
+	margin:100px;
+}
+h2{
+	color:skyblue;
+}
+#home{
+	
+}
